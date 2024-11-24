@@ -113,7 +113,7 @@ public class ScSring {
 		
 //		Find is a number is Hexa-Decimal or not
 		
-		
+		 
 		String B = "766767ACEFD";
 		System.out.println(B.matches("[1-9A-F]+"));
 		

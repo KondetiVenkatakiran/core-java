@@ -14,7 +14,7 @@ public class SringPractice {
 //		String str1 = "Java Program";
 //
 //		Here, string is a class name, str1 is a reference, and "Java Program" is a string object and also a literal.
-//
+// 
 //
 //
 //		char c[] = {'A','B','C','D'};
@@ -38,7 +38,7 @@ public class SringPractice {
 //		String str1 = "Java Project ";
 ////		Method - Two - Here the literal "Java" is created in Heap memory and pool 
 //		String str2 = new String("Java");
-////		Method - Three - Here the object is charecter array it is stored in Heap memory and pool
+////		Method - Three - Here the object is character array it is stored in Heap memory and pool
 //		char c[] = {'H','E','L','L','O'};
 //		String str3 = new String(c,1,2);
 ////		Method - four - Here the object is byte array it is stored in heap memory and pool 
